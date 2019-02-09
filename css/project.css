@@ -80,3 +80,23 @@
   text-align: center;
 }
 
+.ml{
+  position: relative;
+  width: 16.66%;
+  height: auto
+  margin-right: 5px;
+  margin-bottom: 5px;
+  float:left;
+  text-align: center;
+}
+
+.viz{
+  position: relative;
+  width: 50%;
+  height: auto
+  margin-right: 5px;
+  margin-bottom: 5px;
+  float:left;
+  text-align: center;
+}
+
