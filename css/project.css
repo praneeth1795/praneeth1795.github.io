@@ -1,11 +1,11 @@
 .container {
   position: relative;
-  width: 63%;
+  width: 60%;
   align-items: center;
   align-content: center;
   alignment-baseline: central;
   vertical-align: center;
-  align-self: center;
+  align-self: center2
 }
 
 
@@ -13,9 +13,9 @@
   position: relative;
   display: inline-block;
   overflow: hidden;
-  max-width: 35%;
-  height: 35%;
-  margin-right: 40px;
+  max-width: 29%;
+  height: 29%;
+  margin-right: 30px;
   margin-bottom: 15px;
   float:left;
 }
